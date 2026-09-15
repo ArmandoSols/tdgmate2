@@ -1,2 +1,2 @@
-# tdgmate2
-Tarjeta Digital Gamificada Matemática II
+# tdvmate2
+Tarjeta Digital Virtual Matemática II
