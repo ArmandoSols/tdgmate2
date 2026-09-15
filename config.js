@@ -1,5 +1,5 @@
 window.TARJETA_CONFIG = {
-  "appVersion": "12.14",
+  "appVersion": "12.15",
   "curso": "Matemática II",
   "cursoCorto": "mate2",
   "modalidad": "Virtual",
@@ -75,9 +75,9 @@ window.TARJETA_CONFIG = {
     {
       "id": "C5",
       "title": "Quien ríe al último",
-      "rule": "Si detectas un error del profesor durante la clase virtual, puedes recuperar 1 punto en una evaluación.",
-      "benefit": "Recuperar 1 punto en una evaluación.",
-      "condition": "Detectar un error del profesor durante la clase virtual.",
+      "rule": "Si detectas un error del profesor durante la clase, puedes recuperar 1 punto en una evaluación individual.",
+      "benefit": "1 punto extra en un quiz individual, sopa de letras o integración de conocimientos.",
+      "condition": "Detectar un error del profesor durante la clase.",
       "restriction": ""
     },
     {
