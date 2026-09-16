@@ -1,11 +1,11 @@
 window.TARJETA_CONFIG = {
-  "appVersion": "12.15",
+  "appVersion": "12.17",
   "curso": "Matemática II",
   "cursoCorto": "mate2",
   "modalidad": "Virtual",
   "scriptUrl": "https://script.google.com/macros/s/AKfycbyeoX4IefJz4TWi3_vDQGBzoi_KylsazJif-5-9HH_GEM-QhEFqYTJbhrPcrbKm9bPq5w/exec",
   "dominio": "@ufide.ac.cr",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "dias": [
     "Lunes",
     "Martes",
